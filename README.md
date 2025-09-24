@@ -1,1 +1,1 @@
-# sparcs-newbie-seminar
+Hello this is newbie seminar

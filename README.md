@@ -1,1 +1,1 @@
-Hello this is newbie seminar
+Hello this is newbie seminar!
